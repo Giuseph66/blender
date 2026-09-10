@@ -1,0 +1,338 @@
+[
+  {
+    "arquivo": "01_edf70_intake_lip.stl",
+    "origem": "edf70_intake_lip",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      83.769,
+      83.723,
+      9.5
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "02_duct_ring_top.stl",
+    "origem": "duct_ring_top",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      96.73,
+      96.73,
+      13.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "03_duct_ring_bottom.stl",
+    "origem": "duct_ring_bottom",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      96.73,
+      96.73,
+      13.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "04_edf70_housing.stl",
+    "origem": "edf70_housing",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      74.386,
+      74.4,
+      55.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "05_avionics_shield_wall.stl",
+    "origem": "avionics_shield_wall",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      75.0,
+      75.0,
+      25.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "06_bay_shelf.stl",
+    "origem": "bay_shelf",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      96.73,
+      96.73,
+      11.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "07_bay_ring_mid.stl",
+    "origem": "bay_ring_mid",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      96.73,
+      96.73,
+      13.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "08_avionics_airflow_cone.stl",
+    "origem": "avionics_airflow_cone",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      56.0,
+      56.0,
+      28.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "09_bay_ring_top.stl",
+    "origem": "bay_ring_top",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      96.73,
+      96.73,
+      13.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "10_nozzle_barrel_shell.stl",
+    "origem": "nozzle_barrel_shell",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      77.0,
+      77.0,
+      60.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "11_base_plate.stl",
+    "origem": "base_plate",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      78.6,
+      78.6,
+      3.7
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "12_thrust_vane_01.stl",
+    "origem": "thrust_vane_01",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      29.4,
+      66.0,
+      8.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "13_thrust_vane_02.stl",
+    "origem": "thrust_vane_02",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      29.4,
+      66.0,
+      8.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "14_thrust_vane_03.stl",
+    "origem": "thrust_vane_03",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      29.4,
+      66.0,
+      8.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "15_thrust_vane_04.stl",
+    "origem": "thrust_vane_04",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      29.4,
+      66.0,
+      8.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "16_servo_compact_mount_01_lower.stl",
+    "origem": "servo_compact_mount_01_lower",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "17_servo_compact_mount_01_upper.stl",
+    "origem": "servo_compact_mount_01_upper",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "18_servo_compact_mount_02_lower.stl",
+    "origem": "servo_compact_mount_02_lower",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "19_servo_compact_mount_02_upper.stl",
+    "origem": "servo_compact_mount_02_upper",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "20_servo_compact_mount_03_lower.stl",
+    "origem": "servo_compact_mount_03_lower",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "21_servo_compact_mount_03_upper.stl",
+    "origem": "servo_compact_mount_03_upper",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "22_servo_compact_mount_04_lower.stl",
+    "origem": "servo_compact_mount_04_lower",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "23_servo_compact_mount_04_upper.stl",
+    "origem": "servo_compact_mount_04_upper",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      7.654,
+      14.0,
+      5.0
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "24_landing_leg_mount_01.stl",
+    "origem": "landing_leg_mount_01",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      22.0,
+      11.0,
+      9.178
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "25_landing_leg_mount_02.stl",
+    "origem": "landing_leg_mount_02",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      22.0,
+      11.0,
+      9.178
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "26_landing_leg_mount_03.stl",
+    "origem": "landing_leg_mount_03",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      22.0,
+      11.0,
+      9.178
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "27_landing_leg_mount_04.stl",
+    "origem": "landing_leg_mount_04",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      22.0,
+      11.0,
+      9.178
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  },
+  {
+    "arquivo": "28_edf70_rotor_11_blades.stl",
+    "origem": "edf70_rotor_11_blades",
+    "quantidade": 1,
+    "dimensoes_mm": [
+      67.999,
+      67.983,
+      17.907
+    ],
+    "arestas_nao_manifold": 0,
+    "componentes": 1
+  }
+]

@@ -1,0 +1,13 @@
+PEÇAS PARA FATIAMENTO — DRONE
+
+28 arquivos STL individuais, em milímetros. Imprimir uma unidade de cada arquivo: as quatro posições repetidas já estão incluídas.
+O arquivo pecas.json lista dimensões e nomes de origem.
+
+O Blender contém a montagem original na cena Scene e cópias independentes na cena Impressao_3D, abertas no Layout. As peças estão separadas e apoiadas em Z=0. A disposição geral é um catálogo, não uma mesa de impressão. Importe os STL individualmente e organize conforme a sua impressora.
+
+Incluídos: carcaça EDF, entrada, anéis, proteção e suporte de aviônica, cone, carcaça inferior, base, quatro aletas, oito apoios de servo e quatro suportes das pernas, mais o rotor EDF de 11 pás.
+Não incluídos: servos, braços originais dos servos, parafusos, hastes metálicas/carbono, ponteiras comerciais. As ponteiras da montagem são representações sólidas sem cavidade de encaixe. Rotor incluído no STL 28: malha fechada e conectada, eixo vertical e base em Z=0. Resistência e balanceamento em rotação ainda não validados.
+
+Preparação: modificadores avaliados nas cópias, escala real preservada, normais recalculadas e anel inferior corrigido pela fusão de vértices coincidentes a 0,001 mm. Todas as 28 cópias têm um componente conectado e zero arestas não manifold.
+
+Antes de imprimir: definir material, bico, camadas e suportes no fatiador. Orientações são iniciais; aletas e suportes com superfícies curvas podem exigir suportes. Validar folgas dos encaixes e dimensões do servo real. Fechamento da malha não valida resistência mecânica, desempenho aerodinâmico ou balanceamento.
